@@ -61,7 +61,7 @@ We analyzed 1,347 publicly shared SARS-CoV-2 genomes from the United States. By 
 ```
 
 
-<!-- ############ SLIDE BREAK ############# -->
+<!-- ############ SLIDE BREAK ############# --> 
 
 <!-- This is left-side text 2-->
 # [COVID-19 Resources](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
